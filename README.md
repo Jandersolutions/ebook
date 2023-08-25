@@ -40,8 +40,10 @@ Com toques de Star Wars, cada capítulo é um convite para aprender enquanto se 
 
 ## Ferramentas utilizadas
 
-- inkscape
-- leonardo.ia
-- chatgpt
+- 🖌️ inkscape
+- 🎨 leonardo.ia
+- 💬 chatgpt
 
+
+➡️ **Ebook gerado por IA, mas revisado e diagramado por humano**.
   [**CLIQUE AQUI PARA LER**](https://github.com/Jandersolutions/ebook/blob/main/assets/github.pdf)
