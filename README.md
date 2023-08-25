@@ -43,3 +43,5 @@ Com toques de Star Wars, cada capítulo é um convite para aprender enquanto se 
 - inkscape
 - leonardo.ia
 - chatgpt
+
+  [**CLIQUE AQUI PARA LER**](https://github.com/Jandersolutions/ebook/blob/main/assets/github.pdf)
